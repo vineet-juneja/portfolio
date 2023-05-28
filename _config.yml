@@ -1,10 +1,25 @@
 title: <p align="center"> Vineet Juneja </p>
 logo: /assets/img/logo.png
-description: 
-<p align="center">
-<a href="https://www.linkedin.com/in/vineetjuneja/"> Linkedin </a>
 
-Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="/">Resume</a> |
+  <a href="https://www.linkedin.com/in/vineetjuneja/">LinkedIn</a> |
+  <a href="https://github.com/vineet-juneja">GitHub</a>
+  
+  <br>   
+  Bringing over 23 years of experience in creating value for Clients, building large teams and organizations that are built to last.
+  I truly believe that the unique value we provide to our clients, employees and society comes from authenticity and simplicity.
+  Spent a lifetime learning how to effectively lead, handle leadership crises, how to inspire confidence, manage and develop talent, turn organizations around, work on organizational culture, handle fear… stress, recover from unexpected difficulties, and how to energize and motivate our teams to levels of performance and fulfillment they didn't even realize was possible.
+  I have experience in many fields which helps me with a broader perspective and my deep respect for people I am surrounded with, let's me engage with many others for greater possibilities.
+
+
+  I am also a Data Science entuhisast, tried to learn and work through Python, Big Data, Spark, Machine learning & NLP related problems.
+  I will continue to host learning teams for everyone to help their journeys, as there is never enough help 😇
+
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
